@@ -4,4 +4,4 @@
 new-featureブランチで変更
 new-featureブランチで変更2回目
 conflictブランチで変更
-rebase_practiceブランチで更新（rebase用）
+mainブランチで更新（rebase コンフリクト用）
