@@ -5,3 +5,4 @@ new-featureブランチで変更
 new-featureブランチで変更2回目
 conflictブランチで変更
 rebase_practiceブランチで更新（rebaseコンフリクト用）
+rebase　pull用
