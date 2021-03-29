@@ -6,4 +6,4 @@ new-featureブランチで変更2回目
 conflictブランチで変更
 rebase_practiceブランチで更新（rebaseコンフリクト用）
 rebase　pull用
-stash練習用（track済み）
+stash練習用（2nd変更）
